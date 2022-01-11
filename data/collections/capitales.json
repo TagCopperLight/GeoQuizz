@@ -1,0 +1,1859 @@
+{
+    "init": [
+        "Capitales et Pays",
+        "pays",
+        "Quel est le pays donc la capitale est <capitale> ?",
+        "capitale",
+        "Quelle est la capitale <pronom><pays> ?"
+    ],
+    "collection": [
+        [
+            {
+                "pays": "Afghanistan",
+                "pronom": "de l' ",
+                "capitale": "Kaboul"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Afrique du Sud",
+                "pronom": "de l' ",
+                "capitale": "Pretoria"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Albanie",
+                "pronom": "de l' ",
+                "capitale": "Tirana"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Algérie",
+                "pronom": "de l' ",
+                "capitale": "Alger"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Allemagne",
+                "pronom": "de l' ",
+                "capitale": "Berlin"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Andorre",
+                "pronom": "d' ",
+                "capitale": "Andorre-la-Vieille"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Angola",
+                "pronom": "d' ",
+                "capitale": "Luanda"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Anguilla",
+                "pronom": "d' ",
+                "capitale": "The Valley"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Antigua-et-Barbuda",
+                "pronom": "d' ",
+                "capitale": "Saint-Johns"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Arabie saoudite",
+                "pronom": "de l' ",
+                "capitale": "Riyad"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Argentine",
+                "pronom": "de l' ",
+                "capitale": "Buenos Aires"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Arménie",
+                "pronom": "de l' ",
+                "capitale": "Erevan"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Aruba",
+                "pronom": "d' ",
+                "capitale": "Oranjestad"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Australie",
+                "pronom": "de l' ",
+                "capitale": "Canberra"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Autriche",
+                "pronom": "de l' ",
+                "capitale": "Vienne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Azerbaïdjan",
+                "pronom": "de l' ",
+                "capitale": "Bakou"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bahamas",
+                "pronom": "des ",
+                "capitale": "Nassau"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bahreïn",
+                "pronom": "de ",
+                "capitale": "Manama"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Bangladesh",
+                "pronom": "du ",
+                "capitale": "MEDIUM"
+            },
+            ""
+        ],
+        [
+            {
+                "pays": "Barbade",
+                "pronom": "de ",
+                "capitale": "Bridgetown"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Biélorussie",
+                "pronom": "de la ",
+                "capitale": "Minsk"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Belgique",
+                "pronom": "de la ",
+                "capitale": "Bruxelles"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Belize",
+                "pronom": "du ",
+                "capitale": "Belmopan"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bénin",
+                "pronom": "du ",
+                "capitale": "Porto-Novo"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bermudes",
+                "pronom": "des ",
+                "capitale": "Hamilton"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Bhoutan",
+                "pronom": "du ",
+                "capitale": "Thimphou"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bolivie",
+                "pronom": "de la ",
+                "capitale": "Sucre"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Bonaire, Saint-Eustache et Saba",
+                "pronom": "de ",
+                "capitale": "Kralendijk"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Bosnie-Herzégovine",
+                "pronom": "de la ",
+                "capitale": "Sarajevo"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Botswana",
+                "pronom": "du ",
+                "capitale": "Gaborone"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Brésil",
+                "pronom": "du ",
+                "capitale": "Brasilia"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Brunei",
+                "pronom": "de ",
+                "capitale": "Bandar Seri Begawan"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Bulgarie",
+                "pronom": "de la ",
+                "capitale": "Sofia"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Burkina Faso",
+                "pronom": "du ",
+                "capitale": "Ouagadougou"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Burundi",
+                "pronom": "du ",
+                "capitale": "Gitega"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Cap-Vert",
+                "pronom": "du ",
+                "capitale": "Praïa"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Cambodge",
+                "pronom": "du ",
+                "capitale": "Phnom Penh"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Cameroun",
+                "pronom": "du ",
+                "capitale": "Yaoundé"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Canada",
+                "pronom": "du ",
+                "capitale": "Ottawa"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Chili",
+                "pronom": "du ",
+                "capitale": "Santiago"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Chine",
+                "pronom": "de la ",
+                "capitale": "Pékin"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Hong Kong",
+                "pronom": "d' ",
+                "capitale": "Hong Kong"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Macao",
+                "pronom": "de ",
+                "capitale": "Macao"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Chypre",
+                "pronom": "de ",
+                "capitale": "Nicosie"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Colombie",
+                "pronom": "de la ",
+                "capitale": "Bogota"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Comores",
+                "pronom": "des ",
+                "capitale": "Moroni"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Congo",
+                "pronom": "du ",
+                "capitale": "Brazzaville"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Costa Rica",
+                "pronom": "du ",
+                "capitale": "San José"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Côte d’Ivoire",
+                "pronom": "de la ",
+                "capitale": "Yamoussoukro"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Croatie",
+                "pronom": "de la ",
+                "capitale": "Zagreb"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Cuba",
+                "pronom": "de ",
+                "capitale": "La Havane"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Curaçao",
+                "pronom": "de ",
+                "capitale": "Willemstad"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Danemark",
+                "pronom": "du ",
+                "capitale": "Copenhague"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Djibouti",
+                "pronom": "de ",
+                "capitale": "Djibouti"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Dominique",
+                "pronom": "de ",
+                "capitale": "Roseau"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Égypte",
+                "pronom": "de l' ",
+                "capitale": "Le Caire"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Salvador",
+                "pronom": "du ",
+                "capitale": "San Salvador"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Émirats arabes unis",
+                "pronom": "des ",
+                "capitale": "Abou Dabi"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Équateur",
+                "pronom": "de l' ",
+                "capitale": "Quito"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Érythrée",
+                "pronom": "de l' ",
+                "capitale": "Asmara"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Espagne",
+                "pronom": "de l' ",
+                "capitale": "Madrid"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Estonie",
+                "pronom": "de l' ",
+                "capitale": "Tallin"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Eswatini",
+                "pronom": "de l' ",
+                "capitale": "Mbabane"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Palestine",
+                "pronom": "de la ",
+                "capitale": "Jérusalem-Est"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "États-Unis",
+                "pronom": "des ",
+                "capitale": "Washington D.C."
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Éthiopie",
+                "pronom": "de l' ",
+                "capitale": "Addis-Abeba"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Macédoine du Nord",
+                "pronom": "de la ",
+                "capitale": "Skopje"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Russie",
+                "pronom": "de la ",
+                "capitale": "Moscou"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Fidji",
+                "pronom": "des ",
+                "capitale": "Suva"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Finlande",
+                "pronom": "de la ",
+                "capitale": "Helsinki"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "France",
+                "pronom": "de la ",
+                "capitale": "Paris"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Gabon",
+                "pronom": "du ",
+                "capitale": "Libreville"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Gambie",
+                "pronom": "de la ",
+                "capitale": "Banjul"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Géorgie",
+                "pronom": "de la ",
+                "capitale": "Tbilissi"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Ghana",
+                "pronom": "du ",
+                "capitale": "Accra"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Gibraltar",
+                "pronom": "de ",
+                "capitale": "Gibraltar"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Grèce",
+                "pronom": "de la ",
+                "capitale": "Athènes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Grenade",
+                "pronom": "de ",
+                "capitale": "Saint-Georges"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Groenland",
+                "pronom": "du ",
+                "capitale": "Nuuk"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Guadeloupe",
+                "pronom": "de la ",
+                "capitale": "Basse-Terre"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Guam",
+                "pronom": "de ",
+                "capitale": "Hagåtña"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Guatemala",
+                "pronom": "du ",
+                "capitale": "Guatemala"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Guinée",
+                "pronom": "de la ",
+                "capitale": "Conakry"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Guinée-Bissau",
+                "pronom": "de la ",
+                "capitale": "Bissau"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Guinée équatoriale",
+                "pronom": "de la ",
+                "capitale": "Malabo"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Guyana",
+                "pronom": "de la ",
+                "capitale": "Georgetown"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Guyane française",
+                "pronom": "de la ",
+                "capitale": "Cayenne"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Haïti",
+                "pronom": "de ",
+                "capitale": "Port-au-Prince"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Honduras",
+                "pronom": "du ",
+                "capitale": "Tegucigalpa"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Hongrie",
+                "pronom": "de la ",
+                "capitale": "Budapest"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Île de Man",
+                "pronom": "de l' ",
+                "capitale": "Douglas"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Anglo-Normandes",
+                "pronom": "des ",
+                "capitale": "Saint-Hélier"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Caïmans",
+                "pronom": "des ",
+                "capitale": "George Town"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Cook",
+                "pronom": "des ",
+                "capitale": "Avarua"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Falkland",
+                "pronom": "des ",
+                "capitale": "Stanley"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Féroé",
+                "pronom": "des ",
+                "capitale": "Tórshavn"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Mariannes du Nord",
+                "pronom": "des ",
+                "capitale": "Garapan"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Marshall",
+                "pronom": "des ",
+                "capitale": "Majuro"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Salomon",
+                "pronom": "des ",
+                "capitale": "Honiara"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Turques-et-Caïques",
+                "pronom": "des ",
+                "capitale": "Cockburn Town"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Vierges américaines",
+                "pronom": "des ",
+                "capitale": "Charlotte Amalie"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Îles Vierges britanniques",
+                "pronom": "des ",
+                "capitale": "Road Town"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Wallis-et-Futuna",
+                "pronom": "de ",
+                "capitale": "Matu-Utu"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Inde",
+                "pronom": "de l' ",
+                "capitale": "New Delhi"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Indonésie",
+                "pronom": "de l' ",
+                "capitale": "Jakarta"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Iran",
+                "pronom": "de l' ",
+                "capitale": "Téhéran"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Irak",
+                "pronom": "de l' ",
+                "capitale": "Bagdad"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Irlande",
+                "pronom": "de l' ",
+                "capitale": "Dublin"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Islande",
+                "pronom": "de l' ",
+                "capitale": "Reykjavik"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Israël",
+                "pronom": "d' ",
+                "capitale": "Jérusalem"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Italie",
+                "pronom": "de l' ",
+                "capitale": "Rome"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Jamaïque",
+                "pronom": "de la ",
+                "capitale": "Kingston"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Japon",
+                "pronom": "du ",
+                "capitale": "Tokyo"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Jordanie",
+                "pronom": "de la ",
+                "capitale": "Amman"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Kazakhstan",
+                "pronom": "du ",
+                "capitale": "Noursoultan"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Kenya",
+                "pronom": "du ",
+                "capitale": "Nairobi"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Kirghizistan",
+                "pronom": "du ",
+                "capitale": "Bichkek"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Kiribati",
+                "pronom": "de ",
+                "capitale": "Bairiki"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Koweït",
+                "pronom": "du ",
+                "capitale": "Koweït"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Lesotho",
+                "pronom": "du ",
+                "capitale": "Maseru"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Lettonie",
+                "pronom": "de la ",
+                "capitale": "Riga"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Liban",
+                "pronom": "du ",
+                "capitale": "Beyrouth"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Libéria",
+                "pronom": "du ",
+                "capitale": "Monrovia"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Libye",
+                "pronom": "de la ",
+                "capitale": "Tripoli"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Liechtenstein",
+                "pronom": "du ",
+                "capitale": "Vaduz"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Lituanie",
+                "pronom": "de la ",
+                "capitale": "Vilnius"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Luxembourg",
+                "pronom": "du ",
+                "capitale": "Luxembourg"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Madagascar",
+                "pronom": "de ",
+                "capitale": "Antananarivo"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Malaisie",
+                "pronom": "de la ",
+                "capitale": "Kuala Lumpur"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Malawi",
+                "pronom": "de ",
+                "capitale": "Lilongwe"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Maldives",
+                "pronom": "des ",
+                "capitale": "Malé"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Mali",
+                "pronom": "du ",
+                "capitale": "Bamako"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Malte",
+                "pronom": "de ",
+                "capitale": "La Valette"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Maroc",
+                "pronom": "du ",
+                "capitale": "Rabat"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Martinique",
+                "pronom": "de la ",
+                "capitale": "Fort-de-France"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Maurice",
+                "pronom": "de ",
+                "capitale": "Port-Louis"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Mauritanie",
+                "pronom": "de la ",
+                "capitale": "Nouakchott"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Mayotte",
+                "pronom": "de ",
+                "capitale": "Mamoudzou"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Mexique",
+                "pronom": "du ",
+                "capitale": "Mexico"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Micronésie",
+                "pronom": "de la ",
+                "capitale": "Palikir"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Monaco",
+                "pronom": "de ",
+                "capitale": "Monaco"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Mongolie",
+                "pronom": "de la ",
+                "capitale": "Oulan-Bator"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Monténégro",
+                "pronom": "du ",
+                "capitale": "Podgorica"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Montserrat",
+                "pronom": "de ",
+                "capitale": "Brades Estate"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Mozambique",
+                "pronom": "du ",
+                "capitale": "Maputo"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Myanmar",
+                "pronom": "du ",
+                "capitale": "Nay Pyi Taw"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Namibie",
+                "pronom": "de la ",
+                "capitale": "Windhoek"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Nauru",
+                "pronom": "de ",
+                "capitale": "Yaren"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Népal",
+                "pronom": "du ",
+                "capitale": "Katmandou"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Nicaragua",
+                "pronom": "du ",
+                "capitale": "Managua"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Niger",
+                "pronom": "du ",
+                "capitale": "Niamey"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Nigéria",
+                "pronom": "du ",
+                "capitale": "Abuja"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Niue",
+                "pronom": "de ",
+                "capitale": "Alofi"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Norvège",
+                "pronom": "de la ",
+                "capitale": "Oslo"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Nouvelle-Calédonie",
+                "pronom": "de la ",
+                "capitale": "Nouméa"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Nouvelle-Zélande",
+                "pronom": "de la ",
+                "capitale": "Wellington"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Oman",
+                "pronom": "d' ",
+                "capitale": "Mascate"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Ouganda",
+                "pronom": "de l' ",
+                "capitale": "Kampala"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Ouzbékistan",
+                "pronom": "de l' ",
+                "capitale": "Tachkent"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Pakistan",
+                "pronom": "du ",
+                "capitale": "Islamabad"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Palaos",
+                "pronom": "du ",
+                "capitale": "Melekeok"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Panama",
+                "pronom": "du ",
+                "capitale": "Panama"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Papouasie-Nouvelle-Guinée",
+                "pronom": "de la ",
+                "capitale": "Port Moresby"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Paraguay",
+                "pronom": "du ",
+                "capitale": "Asunción"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Pays-Bas",
+                "pronom": "des ",
+                "capitale": "Amsterdam"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Pérou",
+                "pronom": "du ",
+                "capitale": "Lima"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Philippines",
+                "pronom": "des ",
+                "capitale": "Manille"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Pologne",
+                "pronom": "de la ",
+                "capitale": "Varsovie"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Polynésie française",
+                "pronom": "de la ",
+                "capitale": "Papeete"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Porto Rico",
+                "pronom": "de ",
+                "capitale": "San Juan"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Portugal",
+                "pronom": "du ",
+                "capitale": "Lisbonne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Qatar",
+                "pronom": "du ",
+                "capitale": "Doha"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Syrie",
+                "pronom": "de la ",
+                "capitale": "Damas"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "République centrafricaine",
+                "pronom": "de la ",
+                "capitale": "Bangui"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Corée du sud",
+                "pronom": "de la ",
+                "capitale": "Séoul"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Moldavie",
+                "pronom": "de la ",
+                "capitale": "Chisinau"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "République démocratique du Congo",
+                "pronom": "de la ",
+                "capitale": "Kinshasa"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Laos",
+                "pronom": "du ",
+                "capitale": "Vientiane"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "République dominicaine",
+                "pronom": "de la ",
+                "capitale": "Saint-Domingue"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Corée du nord",
+                "pronom": "de la ",
+                "capitale": "Pyongyang"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Tanzanie",
+                "pronom": "de la ",
+                "capitale": "Dodoma"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Réunion",
+                "pronom": "de la ",
+                "capitale": "Saint-Denis"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Roumanie",
+                "pronom": "de la ",
+                "capitale": "Bucarest"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Royaume-Uni",
+                "pronom": "du ",
+                "capitale": "Londres"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Rwanda",
+                "pronom": "du ",
+                "capitale": "Kigali"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Saint-Christophe-et-Niévès",
+                "pronom": "de ",
+                "capitale": "Basseterre"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Saint-Marin",
+                "pronom": "de ",
+                "capitale": "Saint-Marin"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Saint-Martin",
+                "pronom": "de ",
+                "capitale": "Philipsburg"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Saint-Pierre-et-Miquelon",
+                "pronom": "de ",
+                "capitale": "Saint-Pierre"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Vatican",
+                "pronom": "du ",
+                "capitale": "Cité du Vatican"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Saint-Vincent-et-les Grenadines",
+                "pronom": "de ",
+                "capitale": "Kingstown"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Sainte-Hélène",
+                "pronom": "de ",
+                "capitale": "Jamestown"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Sainte-Lucie",
+                "pronom": "de ",
+                "capitale": "Castries"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Samoa",
+                "pronom": "des ",
+                "capitale": "Apia"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Samoa américaines",
+                "pronom": "des ",
+                "capitale": "Pago Pago"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Sao Tomé-et-Principe",
+                "pronom": "de ",
+                "capitale": "Sao Tomé"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Sénégal",
+                "pronom": "du ",
+                "capitale": "Dakar"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Serbie",
+                "pronom": "de la ",
+                "capitale": "Belgrade"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Seychelles",
+                "pronom": "des ",
+                "capitale": "Victoria"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Sierra Leone",
+                "pronom": "du ",
+                "capitale": "Freetown"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Singapour",
+                "pronom": "de ",
+                "capitale": "Singapour"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Slovaquie",
+                "pronom": "de la ",
+                "capitale": "Bratislava"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Slovénie",
+                "pronom": "de la ",
+                "capitale": "Ljubljana"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Somalie",
+                "pronom": "de la ",
+                "capitale": "Mogadiscio"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Soudan",
+                "pronom": "du ",
+                "capitale": "Khartoum"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Soudan du sud",
+                "pronom": "du ",
+                "capitale": "Djouba"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Sri Lanka",
+                "pronom": "du ",
+                "capitale": "Sri Jayawardenapura Kotte"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Suède",
+                "pronom": "de la ",
+                "capitale": "Stockholm"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Suisse",
+                "pronom": "de la ",
+                "capitale": "Berne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Suriname",
+                "pronom": "du ",
+                "capitale": "Paramaribo"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Tadjikistan",
+                "pronom": "du ",
+                "capitale": "Douchanbé"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Tchad",
+                "pronom": "du ",
+                "capitale": "N'Djamena"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Tchéquie",
+                "pronom": "de la ",
+                "capitale": "Prague"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Thaïlande",
+                "pronom": "de la ",
+                "capitale": "Bangkok"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Timor Oriental",
+                "pronom": "du ",
+                "capitale": "Dili"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Togo",
+                "pronom": "du ",
+                "capitale": "Lomé"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Tokélau",
+                "pronom": "du ",
+                "capitale": "Tokélau"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Tonga",
+                "pronom": "du ",
+                "capitale": "Nuku'alofa"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Trinité-et-Tobago",
+                "pronom": "de ",
+                "capitale": "Port d'Espagne"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Tunisie",
+                "pronom": "de la ",
+                "capitale": "Tunis"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Turkménistan",
+                "pronom": "du ",
+                "capitale": "Achgabat"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Turquie",
+                "pronom": "de la ",
+                "capitale": "Ankara"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Tuvalu",
+                "pronom": "du ",
+                "capitale": "Funafuti"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Ukraine",
+                "pronom": "de l' ",
+                "capitale": "Kiev"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Uruguay",
+                "pronom": "de l' ",
+                "capitale": "Montevideo"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Vanuatu",
+                "pronom": "du ",
+                "capitale": "Port-Vila"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Venezuela",
+                "pronom": "du ",
+                "capitale": "Caracas"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "pays": "Viet Nam",
+                "pronom": "du ",
+                "capitale": "Hanoï"
+            },
+            "MEDIUM"
+        ],
+        [
+            {
+                "pays": "Yémen",
+                "pronom": "du ",
+                "capitale": "Sanaa"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Zambie",
+                "pronom": "de la ",
+                "capitale": "Lusaka"
+            },
+            "HARD"
+        ],
+        [
+            {
+                "pays": "Zimbabwe",
+                "pronom": "du ",
+                "capitale": "Harare"
+            },
+            "HARD"
+        ]
+    ]
+}

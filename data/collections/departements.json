@@ -1,0 +1,925 @@
+{
+    "init": [
+        "Départements, Numéros et Préfectures",
+        "departement",
+        "Quel département a pour numéro le <numero> ?",
+        "Quel département a pour préfecture <prefecture> ?",
+        "numero",
+        "Quel est le numéro <pronom><departement> ?",
+        "Quel est le numéro du département dont la préfecture est <prefecture> ?",
+        "prefecture",
+        "Quelle est la préfecture <pronom><departement> ?",
+        "Quelle est la préfecture du département qui port le numéro <numero> ?"
+    ],
+    "collection": [
+        [
+            {
+                "departement": "Ain",
+                "pronom": "de l' ",
+                "numero": "01",
+                "prefecture": "Bourg-en-Bresse"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Aisne",
+                "pronom": "de l' ",
+                "numero": "02",
+                "prefecture": "Laon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Allier",
+                "pronom": "de l' ",
+                "numero": "03",
+                "prefecture": "Moulins"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Alpes-de-Haute-Provence",
+                "pronom": "des ",
+                "numero": "04",
+                "prefecture": "Digne-les-Bains"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Hautes-Alpes",
+                "pronom": "des ",
+                "numero": "05",
+                "prefecture": "Gap"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Alpes-Maritimes",
+                "pronom": "des ",
+                "numero": "06",
+                "prefecture": "Nice"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Ardèche",
+                "pronom": "de l' ",
+                "numero": "07",
+                "prefecture": "Privas"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Ardennes",
+                "pronom": "des ",
+                "numero": "08",
+                "prefecture": "Charleville-Mézières"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Ariège",
+                "pronom": "de l' ",
+                "numero": "09",
+                "prefecture": "Foix"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Aube",
+                "pronom": "de l' ",
+                "numero": "10",
+                "prefecture": "Troyes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Aude",
+                "pronom": "de l' ",
+                "numero": "11",
+                "prefecture": "Carcassonne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Aveyron",
+                "pronom": "de l' ",
+                "numero": "12",
+                "prefecture": "Rodez"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Bouches-du-Rhône",
+                "pronom": "des ",
+                "numero": "13",
+                "prefecture": "Marseille"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Calvados",
+                "pronom": "du ",
+                "numero": "14",
+                "prefecture": "Caen"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Cantal",
+                "pronom": "du ",
+                "numero": "15",
+                "prefecture": "Aurillac"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Charente",
+                "pronom": "de la ",
+                "numero": "16",
+                "prefecture": "Angoulême"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Charente-Maritime",
+                "pronom": "de la ",
+                "numero": "17",
+                "prefecture": "La Rochelle"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Cher",
+                "pronom": "du ",
+                "numero": "18",
+                "prefecture": "Bourges"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Corrèze",
+                "pronom": "de la ",
+                "numero": "19",
+                "prefecture": "Tulle"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Corse-du-Sud",
+                "pronom": "de la ",
+                "numero": "2A",
+                "prefecture": "Ajaccio"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Corse",
+                "pronom": "de la ",
+                "numero": "2B",
+                "prefecture": "Bastia"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Côte-d'Or",
+                "pronom": "de la ",
+                "numero": "21",
+                "prefecture": "Dijon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Côtes-d'Armor",
+                "pronom": "des ",
+                "numero": "22",
+                "prefecture": "Saint-Brieuc"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Creuse",
+                "pronom": "de la ",
+                "numero": "23",
+                "prefecture": "Guéret"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Dordogne",
+                "pronom": "de la ",
+                "numero": "24",
+                "prefecture": "Périgueux"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Doubs",
+                "pronom": "du ",
+                "numero": "25",
+                "prefecture": "Besançon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Drôme",
+                "pronom": "de la ",
+                "numero": "26",
+                "prefecture": "Valence"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Eure",
+                "pronom": "de l' ",
+                "numero": "27",
+                "prefecture": "Évreux"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Eure-et-Loir",
+                "pronom": "de l' ",
+                "numero": "28",
+                "prefecture": "Chartres"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Finistère",
+                "pronom": "du ",
+                "numero": "29",
+                "prefecture": "Quimper"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Gard",
+                "pronom": "du ",
+                "numero": "30",
+                "prefecture": "Nîmes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Garonne",
+                "pronom": "de la ",
+                "numero": "31",
+                "prefecture": "Toulouse"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Gers",
+                "pronom": "du ",
+                "numero": "32",
+                "prefecture": "Auch"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Gironde",
+                "pronom": "de la ",
+                "numero": "33",
+                "prefecture": "Bordeaux"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Hérault",
+                "pronom": "de l' ",
+                "numero": "34",
+                "prefecture": "Montpellier"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Ille-et-Vilaine",
+                "pronom": "de l' ",
+                "numero": "35",
+                "prefecture": "Rennes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Indre",
+                "pronom": "de l' ",
+                "numero": "36",
+                "prefecture": "Châteauroux"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Indre-et-Loire",
+                "pronom": "de l' ",
+                "numero": "37",
+                "prefecture": "Tours"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Isère",
+                "pronom": "de l' ",
+                "numero": "38",
+                "prefecture": "Grenoble"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Jura",
+                "pronom": "du ",
+                "numero": "39",
+                "prefecture": "Lons-le-Saunier"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Landes",
+                "pronom": "des ",
+                "numero": "40",
+                "prefecture": "Mont-de-Marsan"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Loir-et-Cher",
+                "pronom": "du ",
+                "numero": "41",
+                "prefecture": "Blois"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Loire",
+                "pronom": "de la ",
+                "numero": "42",
+                "prefecture": "Saint-Étienne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Loire",
+                "pronom": "de la ",
+                "numero": "43",
+                "prefecture": "Le Puy-en-Velay"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Loire-Atlantique",
+                "pronom": "de la ",
+                "numero": "44",
+                "prefecture": "Nantes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Loiret",
+                "pronom": "du ",
+                "numero": "45",
+                "prefecture": "Orléans"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Lot",
+                "pronom": "du ",
+                "numero": "46",
+                "prefecture": "Cahors"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Lot-et-Garonne",
+                "pronom": "du ",
+                "numero": "47",
+                "prefecture": "Agen"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Lozère",
+                "pronom": "de la ",
+                "numero": "48",
+                "prefecture": "Mende"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Maine-et-Loire",
+                "pronom": "du ",
+                "numero": "49",
+                "prefecture": "Angers"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Manche",
+                "pronom": "de la ",
+                "numero": "50",
+                "prefecture": "Saint-Lô"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Marne",
+                "pronom": "de la ",
+                "numero": "51",
+                "prefecture": "Châlons-en-Champagne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Marne",
+                "pronom": "de la ",
+                "numero": "52",
+                "prefecture": "Chaumont"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Mayenne",
+                "pronom": "de la ",
+                "numero": "53",
+                "prefecture": "Laval"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Meurthe-et-Moselle",
+                "pronom": "de la ",
+                "numero": "54",
+                "prefecture": "Nancy"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Meuse",
+                "pronom": "de la ",
+                "numero": "55",
+                "prefecture": "Bar-le-Duc"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Morbihan",
+                "pronom": "du ",
+                "numero": "56",
+                "prefecture": "Vannes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Moselle",
+                "pronom": "de la ",
+                "numero": "57",
+                "prefecture": "Metz"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Nièvre",
+                "pronom": "de la ",
+                "numero": "58",
+                "prefecture": "Nevers"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Nord",
+                "pronom": "du ",
+                "numero": "59",
+                "prefecture": "Lille"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Oise",
+                "pronom": "de l' ",
+                "numero": "60",
+                "prefecture": "Beauvais"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Orne",
+                "pronom": "de l' ",
+                "numero": "61",
+                "prefecture": "Alençon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Pas-de-Calais",
+                "pronom": "du ",
+                "numero": "62",
+                "prefecture": "Arras"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Puy-de-Dôme",
+                "pronom": "du ",
+                "numero": "63",
+                "prefecture": "Clermont-Ferrand"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Pyrénées-Atlantiques",
+                "pronom": "des ",
+                "numero": "64",
+                "prefecture": "Pau"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Hautes-Pyrénées",
+                "pronom": "des ",
+                "numero": "65",
+                "prefecture": "Tarbes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Pyrénées-Orientales",
+                "pronom": "des ",
+                "numero": "66",
+                "prefecture": "Perpignan"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Bas-Rhin",
+                "pronom": "du ",
+                "numero": "67",
+                "prefecture": "Strasbourg"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haut-Rhin",
+                "pronom": "du ",
+                "numero": "68",
+                "prefecture": "Colmar"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Rhône",
+                "pronom": "du ",
+                "numero": "69",
+                "prefecture": "Lyon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Saône",
+                "pronom": "de la ",
+                "numero": "70",
+                "prefecture": "Vesoul"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Saône-et-Loire",
+                "pronom": "de la ",
+                "numero": "71",
+                "prefecture": "Mâcon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Sarthe",
+                "pronom": "de la ",
+                "numero": "72",
+                "prefecture": "Le Mans"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Savoie",
+                "pronom": "de la ",
+                "numero": "73",
+                "prefecture": "Chambéry"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Savoie",
+                "pronom": "de la ",
+                "numero": "74",
+                "prefecture": "Annecy"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Paris",
+                "pronom": "de ",
+                "numero": "75",
+                "prefecture": "Paris"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Seine-Maritime",
+                "pronom": "de la ",
+                "numero": "76",
+                "prefecture": "Rouen"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Seine-et-Marne",
+                "pronom": "de la ",
+                "numero": "77",
+                "prefecture": "Melun"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Yvelines",
+                "pronom": "des ",
+                "numero": "78",
+                "prefecture": "Versailles"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Deux-Sèvres",
+                "pronom": "des ",
+                "numero": "79",
+                "prefecture": "Niort"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Somme",
+                "pronom": "de la ",
+                "numero": "80",
+                "prefecture": "Amiens"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Tarn",
+                "pronom": "du ",
+                "numero": "81",
+                "prefecture": "Albi"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Tarn-et-Garonne",
+                "pronom": "du ",
+                "numero": "82",
+                "prefecture": "Montauban"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Var",
+                "pronom": "du ",
+                "numero": "83",
+                "prefecture": "Toulon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Vaucluse",
+                "pronom": "du ",
+                "numero": "84",
+                "prefecture": "Avignon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Vendée",
+                "pronom": "de la ",
+                "numero": "85",
+                "prefecture": "La Roche-sur-Yon"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Vienne",
+                "pronom": "de la ",
+                "numero": "86",
+                "prefecture": "Poitiers"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Haute-Vienne",
+                "pronom": "de la ",
+                "numero": "87",
+                "prefecture": "Limoges"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Vosges",
+                "pronom": "des ",
+                "numero": "88",
+                "prefecture": "Épinal"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Yonne",
+                "pronom": "de l' ",
+                "numero": "89",
+                "prefecture": "Auxerre"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Territoire de Belfort",
+                "pronom": "du ",
+                "numero": "90",
+                "prefecture": "Belfort"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Essonne",
+                "pronom": "de l' ",
+                "numero": "91",
+                "prefecture": "Évry-Courcouronnes"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Hauts-de-Seine",
+                "pronom": "des ",
+                "numero": "92",
+                "prefecture": "Nanterre"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Seine-Saint-Denis",
+                "pronom": "de la ",
+                "numero": "93",
+                "prefecture": "Bobigny"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Val-de-Marne",
+                "pronom": "du ",
+                "numero": "94",
+                "prefecture": "Créteil"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Val-d'Oise",
+                "pronom": "du ",
+                "numero": "95",
+                "prefecture": "Cergy"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Guadeloupe",
+                "pronom": "de la ",
+                "numero": "971",
+                "prefecture": "Basse-Terre"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Martinique",
+                "pronom": "de la ",
+                "numero": "972",
+                "prefecture": "Fort-de-France"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Guyane",
+                "pronom": "de la ",
+                "numero": "973",
+                "prefecture": "Cayenne"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "La Réunion",
+                "pronom": "de ",
+                "numero": "974",
+                "prefecture": "Saint-Denis"
+            },
+            "EASY"
+        ],
+        [
+            {
+                "departement": "Mayotte",
+                "pronom": "de ",
+                "numero": "976",
+                "prefecture": "Mamoudzou"
+            },
+            "EASY"
+        ]
+    ]
+}
