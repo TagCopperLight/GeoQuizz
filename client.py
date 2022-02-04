@@ -8,6 +8,8 @@ pygame.init()
 clock = pygame.time.Clock()
 START = True
 
+print('aled')
+
 screen = pygame.display.set_mode((1920, 1057), pygame.RESIZABLE)
 maximize_window()
 
